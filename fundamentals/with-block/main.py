@@ -1,8 +1,9 @@
 # O bloco `with` é utilizado para controlar contextos no seu programa com o "context manager protocol"
+# NOTE: classes que serao utilizadas como contexto possuem os metodos magicos __exit__ e __enter__
 
 
 class Foo:
-    # NOTE: classes que serao utilizadas como contexto possuem os metodos magicos __exit__ e __enter__
+
     def __exit__(self, *args):
         print("Saindo do bloco with")
         print(args)

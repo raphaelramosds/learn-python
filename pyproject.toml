@@ -1,0 +1,19 @@
+[project]
+name = "learn-python"
+version = "0.1.0"
+description = "Repository to keep my notes and code samples to fix Python concepts and frameworks"
+authors = [
+    {name = "Raphael Ramos",email = "raphael.opensource@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+package-mode = false

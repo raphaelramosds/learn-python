@@ -1,5 +1,3 @@
-
-
 # Fundamentos
 
 - **manage-modules**: Uso do arquivo `__init__.py` em pacotes Python

@@ -1,5 +1,5 @@
 """
-Uso do bloco with em Python
+Uso do bloco with
 
 O bloco `with` é utilizado para gerenciar recursos e controlar contextos 
 de forma segura, seguindo o "context manager protocol".

@@ -1,14 +1,18 @@
 # Aprender Python
 
+## Visão geral
+
 Este repositório reúne exemplos de código que exploram conceitos da linguagem **Python** e suas principais ferramentas.
 
-## Organização
+### [Fundamentos](./learn-python/fundamentals/)  
 
-- [**Fundamentos**](./fundamentals/)  
-  Exemplos sobre programação estruturada e orientação a objetos nativa da linguagem.
+- [Uso do arquivo __init__.py em pacotes](./learn-python/fundamentals/manage-modules/)
+- [Uso de next() com for](./learn-python/fundamentals/next-for-search/)
+- [Uso do bloco with](./learn-python/fundamentals/with-block/)
 
-- [**Ferramentas**](./tools/)  
-  Demonstra o uso de pacotes importantes do ecossistema Python, como `mypy`, `SQLAlchemy`, `pytest`, entre outros.
+### [Ferramentas](./learn-python/tools/)  
+
+- [MyPy](./learn-python/tools/mypy/)
 
 ## Observações
 

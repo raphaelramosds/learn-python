@@ -1,5 +1,5 @@
 """
-Uso do arquivo __init__.py em pacotes Python
+Uso do arquivo __init__.py em pacotes
 
 O arquivo __init__.py é utilizado para:
 

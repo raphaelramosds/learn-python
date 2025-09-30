@@ -14,7 +14,7 @@ Este repositório reúne exemplos de código que exploram conceitos da linguagem
 
 - [MyPy](./learn-python/tools/mypy/)
 
-## Observações
+## Poetry
 
 Esse repositório utiliza o Poetry para gerenciar as dependências.
 

@@ -6,13 +6,16 @@ Este repositório reúne exemplos de código que exploram conceitos da linguagem
 
 ### [Fundamentos](./learn-python/fundamentals/)  
 
-- [Uso do arquivo __init__.py em pacotes](./learn-python/fundamentals/manage-modules/)
-- [Uso de next() com for](./learn-python/fundamentals/next-for-search/)
-- [Uso do bloco with](./learn-python/fundamentals/with-block/)
+- [Bloco with](./learn-python/fundamentals/with-block/)
 
 ### [Ferramentas](./learn-python/tools/)  
 
 - [MyPy](./learn-python/tools/mypy/)
+
+### [Casos de uso](./learn-python/casos-de-uso/)
+
+- [Busca linear com next() e for](./learn-python/casos-de-uso/next-for-search/)
+- [Exposição de módulos e controle de namespaces com __init__.py](./learn-python/casos-de-uso/manage-modules/)
 
 ## Poetry
 

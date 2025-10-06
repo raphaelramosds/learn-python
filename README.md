@@ -7,6 +7,7 @@ Este repositório reúne exemplos de código que exploram conceitos da linguagem
 ### [Fundamentos](./learn-python/fundamentals/)  
 
 - [Bloco with](./learn-python/fundamentals/with-block/)
+- [Corrotinas e Funções Geradoras](./learn-python/fundamentals/couroutines-generators/)
 
 ### [Ferramentas](./learn-python/tools/)  
 

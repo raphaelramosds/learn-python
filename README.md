@@ -8,6 +8,7 @@ Este repositório reúne exemplos de código que exploram conceitos da linguagem
 
 - [Bloco with](./learn-python/fundamentals/with-block/)
 - [Corrotinas e Funções Geradoras](./learn-python/fundamentals/couroutines-generators/)
+- [Padrões WSGI e ASGI](learn-python/fundamentals/wsgi-asgi)
 
 ### [Ferramentas](./learn-python/tools/)  
 
